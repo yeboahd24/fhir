@@ -1,0 +1,16 @@
+{
+  "name": "acme.base.r4",
+  "version": "4.0.2",
+  "description": "ACME Base Profile R4",
+  "author": "ACME Corp",
+  "fhirVersions": [
+    "4.0.1"
+  ],
+  "devDependencies": null,
+  "canonicals": null,
+  "dependencies": {
+    "hl7.fhir.us.core": "3.1.0",
+    "hl7.fhir.r4.core": "4.0.1"
+  }
+}
+
